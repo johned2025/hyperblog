@@ -6,12 +6,31 @@ font-family: "courier";
 #container
 {
     width: 70% ;
-    padding: 1em;
+    padding: 0em;
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
 }
+#cabecera{
+    background: #339A;
+    box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.75);
+    color: white;
+    margin: 0%;
+    padding: 0.5em;
+    font-weight: bold;
+}
+#cabecera #tagline{
+
+    padding: 1em 0 0 0;
+    margin: 2%;
+    font-weight: normal;
+    font-size: 0.7em;
+    
+}
 #container h1
 {
     font-size: 20 px;
+}
+#post{
+
 }
